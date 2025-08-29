@@ -291,19 +291,19 @@
                     <li class="nav-item menu-open">
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="../index3.html" class="nav-link active">
+                                <a href="user.php" class="nav-link active">
                                     <i class="nav-icon bi bi-circle"></i>
                                     <p>Dashboard</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="../index3.html" class="nav-link active">
+                                <a href="category.php" class="nav-link active">
                                     <i class="nav-icon bi bi-circle"></i>
                                     <p>Category</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="../index3.html" class="nav-link active">
+                                <a href="registration.php" class="nav-link active">
                                     <i class="nav-icon bi bi-circle"></i>
                                     <p>Registration</p>
                                 </a>

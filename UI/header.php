@@ -308,7 +308,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="product.php" class="nav-link">
+                                <a href="addproduct.php" class="nav-link">
                                     <i class="nav-icon bi bi-box-seam"></i>
                                     <p>Product</p>
                                 </a>
@@ -322,28 +322,28 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="../index3.html" class="nav-link">
+                                <a href="pos.php" class="nav-link">
                                     <i class="nav-icon bi bi-upc-scan"></i>
                                     <p>POS</p>
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="../index3.html" class="nav-link">
+                                <a href="orderlist.php" class="nav-link">
                                     <i class="nav-icon bi bi-card-checklist"></i>
                                     <p>OrderList</p>
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="../index3.html" class="nav-link">
+                                <a href="tablereport.php" class="nav-link">
                                     <i class="nav-icon bi bi-graph-up"></i>
                                     <p>Sales Report</p>
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="../index3.html" class="nav-link">
+                                <a href="taxdis.php" class="nav-link">
                                     <i class="nav-icon bi bi-receipt"></i>
                                     <p>Tax</p>
                                 </a>

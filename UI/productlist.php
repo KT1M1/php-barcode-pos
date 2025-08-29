@@ -29,6 +29,7 @@ include_once "header.php";
                         <thead>
                         <tr>
                             <th>Barcode</th>
+                            <th>Barcode</th>
                             <th>Product</th>
                             <th>Category</th>
                             <th>Description</th>

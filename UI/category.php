@@ -1,8 +1,13 @@
 <?php
+
 include_once "connectdb.php";
 session_start();
 
-include_once "header.php";
+if($_SESSION['useremail'] == "" || $_SESSION['userrole'] == "User") {
+    include_once "headeruser.php";
+} else{
+    include_once "header.php";
+}
 
 $message = "";
 
